@@ -1,11 +1,12 @@
 # Hi, I'm Suprie 👋
 
-I'm a software developer based in Jakarta. I enjoy building useful tools, exploring new ideas, and improving the small details that make software easier to use.
+I'm a software developer based in Jakarta. I build native apps and developer tools, with a focus on keeping useful information close to the people who need it.
 
-### What I work on
+### Projects
 
-- Apple platform development, including Swift and iOS projects
-- Developer tools and practical experiments
-- Open source contributions, including the [Indonesian localization of SwiftDate](https://github.com/malcommac/SwiftDate)
+- [Takar Pakai](https://github.com/suprie/claude-monitor) — a macOS app for exploring local token usage from AI coding tools.
+- [LoopDeck](https://github.com/suprie/loopdeck) — a desktop app that keeps project context in the repository and helps guide development loops.
 
-You can browse my [repositories](https://github.com/suprie?tab=repositories) to see what I've been working on. If you'd like to connect or collaborate, reach me through [GitHub](https://github.com/suprie).
+I've also contributed to open source, including the [Indonesian localization of SwiftDate](https://github.com/malcommac/SwiftDate).
+
+Explore my [repositories](https://github.com/suprie?tab=repositories) or connect with me here on [GitHub](https://github.com/suprie).
